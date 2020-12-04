@@ -2,7 +2,7 @@ biopython==1.68
 boto==2.45.0
 bz2file==0.98
 click==6.6
-Flask==0.12
+Flask==1.0
 Flask-WTF==0.12
 gensim==0.13.3
 gunicorn==19.6.0
